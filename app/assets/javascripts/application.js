@@ -19,3 +19,4 @@
 //= require then_hit_opt_cmd_u.js
 //= require maj-text-counter.js
 //= require poem_meta_data.js
+//= require bootstrap.min.js
