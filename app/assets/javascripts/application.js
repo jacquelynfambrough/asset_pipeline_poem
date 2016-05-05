@@ -17,3 +17,5 @@
 //= require violets_are_blue.js
 //= require compile_your_assets.js
 //= require then_hit_opt_cmd_u.js
+//= require maj-text-counter.js
+//= require poem_meta_data.js
